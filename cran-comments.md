@@ -1,4 +1,5 @@
 # clustertend 1.6
+<<<<<<< HEAD
 
 ## CRAN package status check
 
@@ -27,15 +28,16 @@ None
 # clustertend 1.5
 
 This release introduces Kevin Wright as maintainer of the package.  The former maintainer says:
+=======
+>>>>>>> 8a493a9b33e9374da318c5576eade015dcb67b2b
 
-Kevin,
+# clustertend 1.5
 
-Thank you for taking care of this package and I am pretty grateful if you would be in charge. But I haven't use R for long and don't know how to transfer the ownership. May take a few days for me to figure it out. 
-It would be appreciated if you happened to know how to do it. Would let you know about its progress.
+This release introduces Kevin Wright as maintainer of the package.
 
-Sincerely,
+The former maintainer says:
 
-Rutong Zeng
+Kevin, Thank you for taking care of this package and I am pretty grateful if you would be in charge. Sincerely, Rutong Zeng
 
 ## Test environments & results
 

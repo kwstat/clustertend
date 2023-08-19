@@ -1,3 +1,27 @@
+# clustertend 1.7
+
+* Change license from GPL2,GPL3 to MIT.
+* Fix clustertend-package.Rd issue reported by CRAN.
+
+## Test environments & results
+
+* local R 4.3.1 on Windows 10
+* devtools::check_win_devel()
+* rhub::check_for_cran()
+
+No problems.
+
+## CRAN package status check
+
+https://cran.r-project.org/web/checks/check_results_kw.stat_at_gmail.com.html
+Current CRAN status: OK: 13
+
+## Reverse depends
+
+None
+
+
+
 # clustertend 1.6
 
 ## CRAN package status check
